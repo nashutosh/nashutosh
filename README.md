@@ -1,10 +1,5 @@
 - 👋 Hi, I’m ashutosh singh
-- 👀 I’m interested in python programming with AI/ML
-- 🌱 I’m currently learning  AI/ML
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning  Data acience
 - 📫 To reach me :- ashutoshsingh6376@gmail.com or +91 8140532074
-
 - ⚡ Fun fact:- I am also interested in Blockchain technology
-
-<!---
-currently i am pursuing my degree from parul university .....
---->
