@@ -1,58 +1,48 @@
-# Hi there, I'm Ashutosh! 👋,Portfolio:-https://nashutos![WhatsApp Image 2025-01-24 at 2 15 28 PM](https://github.com/user-attachments/assets/29170c3f-fc25-4474-b4a6-7f2d50951b1b)
-h.netlify.app/
+# Hi there, I'm Ashutosh! 👋
 
-Welcome to my GitHub profile! I'm passionate about solving real-world problems with data science and cutting-edge technology. Here's a quick overview of my skills and expertise:
+Welcome to my GitHub profile! I'm a **software developer** passionate about solving real-world problems with **data science**, **machine learning**, and innovative technology. Here's a quick overview of my expertise:
 
 ---
 
 ## 🚀 Skills & Expertise
 
-### 🌟 **Data Science & Analytics**
-- **Data Analysis Tools**: Python (Pandas, NumPy, Matplotlib), MySQL, Excel
-- **Visualization Tools**: Tableau, Power BI
-- **Big Data**: Hadoop, Spark
+### 🌟 **Full Stack Development & Data Science**
+- **Programming Languages**: Python, JavaScript, Java with DSA 
+- **Frontend**: React, Next.js, Vue.js, HTML, CSS  
+- **Backend**: Flask, Node.js, Express  
+- **Big Data**: Hadoop, Spark  
 
 ### 🤖 **Machine Learning & AI**
-- **Core ML Skills**: Supervised/Unsupervised Learning, Feature Engineering
-- **Deep Learning**: Neural Networks, LLMs, Generative AI
-- **Specializations**: Natural Language Processing (NLP), Computer Vision
+- **Core Skills**: Supervised/Unsupervised Learning, Neural Networks, LLMs, Generative AI  
+- **Specializations**: NLP, Computer Vision  
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib, Seaborn  
 
-### 🛠️ **Development Tools & Frameworks**
-- **Frontend**: React, Three.js
-- **Backend**: Flask, Django
-- **Deployment**: AWS, Docker
+### 🛠️ **Tools & Deployment**
+- **Deployment Platforms**: AWS, Docker, CI/CD  
+- **Databases**: MySQL, MongoDB  
 
 ---
 
 ## 🏆 Achievements
 
-- **Smart India Hackathon (SIH)**: Finalist
-- Delivered an innovative solution for converting text to sign grammar language.
-
----
-
-## 📜 Certifications
-
-- Python Programming (Udemy)
-- MySQL (Udemy)
-- Excel (Simplilearn)
-- Power BI (Simplilearn)
-- Pandas (Simplilearn)
-- Machine Learning (Simplilearn)
-- Data Analytics (Simplilearn)
+- **Hackathon Winner & Finalist**  
+   - **Smart India Hackathon (SIH)**: Finalist 🏅  
+   - Developed an innovative solution for converting text to sign grammar language.
+   - **PU Code hackathon**: Winner 🏅
+   - **Vadodara hackathon**: Finalist 🏅
+   - **Tech Expo**
 
 ---
 
 ## 📂 Featured Projects
 
 ### **Text-to-Sign Grammar Converter**
-- **Description**: A model that converts simple text into sign grammar language, using facial and hand expressions to aid communication for the deaf.
-- **Technologies**: Three.js, React, Python, AWS
+- **Description**: A tool that converts simple text into sign grammar language using facial and hand expressions to bridge communication gaps for the deaf.  
+- **Technologies**: React, Three.js, Python, AWS  
 
-### **More Projects**
-- Explore my repositories to find projects in ML, NLP, and data visualization!
+### **Explore More**
+- Check out my repositories to discover projects in **ML**, **NLP**, **data visualization**, and **full-stack development**!  
 
 ---
 
-Feel free to connect with me or explore my work. I'm always excited to collaborate on innovative projects!
-
+Feel free to connect or explore my work. I’m always excited to collaborate on cutting-edge projects! 🚀
