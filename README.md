@@ -1,4 +1,5 @@
-# Hi there, I'm Ashutosh! 👋,Portfolio:-https://nashutosh.netlify.app/
+# Hi there, I'm Ashutosh! 👋,Portfolio:-https://nashutos![WhatsApp Image 2025-01-24 at 2 15 28 PM](https://github.com/user-attachments/assets/29170c3f-fc25-4474-b4a6-7f2d50951b1b)
+h.netlify.app/
 
 Welcome to my GitHub profile! I'm passionate about solving real-world problems with data science and cutting-edge technology. Here's a quick overview of my skills and expertise:
 
