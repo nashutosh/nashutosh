@@ -59,8 +59,15 @@ Previously, I was a **Machine Learning Intern at iNeuron**, working on **predict
 - **Implemented** **deep learning algorithms** for **data-driven decision-making**.  
 
 ---
-
 ## **📂 Featured Projects**  
+
+### **📌 Agrivistarr (Agriculture Marketplace App)**  
+🚀 **Description:** A **mobile application** connecting **farmers directly with buyers**, eliminating intermediaries that exploit farmers.  
+🔹 **Tech Stack:**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![XML](https://img.shields.io/badge/XML-EB5757?style=for-the-badge&logo=codeigniter&logoColor=white)  
 
 ### **📌 AI-Powered Customization Suite**  
 🚀 **Description:** A **3D modeling software** enabling **customized product prototyping** with AI-based automation.  
@@ -82,6 +89,9 @@ Previously, I was a **Machine Learning Intern at iNeuron**, working on **predict
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+
+
+
 
 ---
 
