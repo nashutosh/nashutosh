@@ -8,7 +8,8 @@
 
 ## **💡 About Me**  
 
-I am a **Software Developer Intern** at **NMS Softwares & Innovations India Pvt Ltd**, focusing on **AI-driven automation, scalable architectures, and real-time data solutions**. With expertise in **machine learning, full-stack development, and big data**, I specialize in transforming complex data into **AI-powered applications**.  
+I am a **Software Developer Intern** at **NMS Softwares & Innovations India Pvt Ltd**, focusing on **AI-driven automation, scalable architectures, and real-time data solutions**. With expertise in **machine learning, full-stack development, and big data**, I specialize in transforming complex data into **AI-powered applications 
+🌐 **Website:** [NMS Softwares](https://nmssoftwares.com)**.  
 
 Previously, I was a **Machine Learning Intern at iNeuron**, working on **predictive models, deep learning applications, and NLP solutions**.  
 
@@ -104,9 +105,7 @@ Previously, I was a **Machine Learning Intern at iNeuron**, working on **predict
 
 ---
 
-## **📩 Connect & Collaborate**  
-
-🌐 **Website:** [NMS Softwares](https://nmssoftwares.com)  
+## **📩 Connect & Collaborate**   
 🔗 **LinkedIn:** [Ashutosh Singh](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
 📂 **Portfolio:** [My Work](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)  
 
