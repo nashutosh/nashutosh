@@ -1,9 +1,9 @@
 # **Ashutosh Singh** | *Software Engineer*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=vercel)](https://portfolio-main-kv5a-git-main-nashutoshs-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=vercel)](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01733cdf54a40087d9?nav_dir=pop)
-[![GitHub Followers](https://img.shields.io/github/followers/nashutoshs?label=Follow&style=social)](https://github.com/nashutosh)
+[![GitHub Followers](https://img.shields.io/github/followers/nashutosh?label=Follow&style=social)](https://github.com/nashutosh)
 
 ---
 
@@ -71,14 +71,14 @@
 🎖️ **Vadodara Hackathon Finalist**  
 📌 **Tech Expo Presenter**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nashutoshs&theme=onedark&no-bg=true&no-frame=true&column=4&cache=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nashutosh&theme=onedark&no-bg=true&no-frame=true&column=4)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutoshs&show_icons=true&theme=radical&cache_bust=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutoshs&layout=compact&theme=radical&cache_bust=1)
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
 
 ---
 
@@ -86,6 +86,6 @@
 
 - 📧 Email: ashutoshsingh6376@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
-- 🌐 [Portfolio](https://portfolio-main-kv5a-git-main-nashutoshs-projects.vercel.app/)
+- 🌐 [Portfolio](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)
 
 > 🚀 *"Building scalable, intelligent, and impactful tech."*
