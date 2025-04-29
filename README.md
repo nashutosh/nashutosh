@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=vercel)](https://portfolio-main-kv5a-git-main-nashutoshs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01733cdf54a40087d9?nav_dir=pop)
-[![GitHub Followers](https://img.shields.io/github/followers/nashutoshs?label=Follow&style=social)](https://github.com/nashutoshs)
+[![GitHub Followers](https://img.shields.io/github/followers/nashutoshs?label=Follow&style=social)](https://github.com/nashutosh)
 
 ---
 
