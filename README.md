@@ -2,7 +2,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=vercel)](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
-[![Company](https://img.shields.io/badge/NMS%20Softwares-Official%20Website-darkblue?style=flat&logo=globe)](https://nmssoftwares.com)  
 ## 💼 Hire Me on Upwork  
 [![Upwork](https://img.shields.io/badge/Upwork-Profile-green?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01733cdf54a40087d9?nav_dir=pop)
 
