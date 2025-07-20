@@ -86,6 +86,4 @@
 
 - 📧 Email: ashutoshsingh6376@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
-- 🌐 [Portfolio](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)
-
 > 🚀 *"Building scalable, intelligent, and impactful tech."*
