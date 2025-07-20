@@ -69,8 +69,8 @@
 ### 📈 LeetCode & Codeforces
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
-![Codeforces Rating](https://img.shields.io/codeforces/rating?username=ashutoshsingh6376&logo=codeforces&style=flat)
-![Codeforces Max Rank](https://img.shields.io/codeforces/max_rank?username=ashutoshsingh6376&style=flat)
+![Codeforces](https://img.shields.io/badge/Codeforces-ashutoshsingh6376-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
+
 
 ---
 
