@@ -2,8 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=flat&logo=vercel)](https://portfolio-7l325vp93-nashutoshs-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01733cdf54a40087d9?nav_dir=pop)
 [![GitHub Followers](https://img.shields.io/github/followers/nashutosh?label=Follow&style=social)](https://github.com/nashutosh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ashu054/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
 
@@ -48,22 +49,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 **1. Airbnb Clone**
-> A complete clone of Airbnb with real-time listings, booking & authentication.  
-**Tech Stack:** React · TailwindCSS · MongoDB · Express · Node.js  
-
-### 📌 **2. Version Control System (Custom Git)**
-> A CLI-based custom Git-like tool with version tracking and SHA-based storage.  
-**Tech Stack:** Python · CLI · File Systems · Hashing  
-
-### 📌 **3. Renova – AI-based Learning Platform**
-> Personalized learning dashboard using AI-based student performance analysis.  
-**Tech Stack:** React · Node.js · MongoDB · TensorFlow · Flask  
-
----
-
 ## 🏆 Achievements
 
 🏅 **Smart India Hackathon Finalist** – Sign language translator  
@@ -75,10 +60,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats Overview
 
 ![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
+
+---
+
+## 📈 LeetCode & Codeforces Stats
+
+> ℹ️ *These platforms don’t provide direct APIs for detailed stats, but you can use browser extensions or custom services like leetcode-stats-api and codeforces-readme-stats to show contest rank, problem solved, rating etc.*
+
+```markdown
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)
+![Codeforces Stats](https://raw.githubusercontent.com/ashutoshsingh6376/codeforces-stats/main/output/light_card.svg)
+```
 
 ---
 
