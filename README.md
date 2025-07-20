@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
 [![GitHub Followers](https://img.shields.io/github/followers/nashutosh?label=Follow&style=social)](https://github.com/nashutosh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Ashu054/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-lightgrey?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
 
@@ -59,17 +59,18 @@
 
 ---
 
-## 📈 LeetCode & Codeforces Stats
+## 📊 GitHub & DSA Stats
+
+### 🔥 GitHub
+
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
+
+### 📈 LeetCode & Codeforces
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
-![Codeforces Stats](https://cf-stats-liard.vercel.app/api?username=ashutoshsingh6376&theme=light)
-
----
-
-## 📊 GitHub Stats
-
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
+![Codeforces Rating](https://img.shields.io/codeforces/rating?username=ashutoshsingh6376&logo=codeforces&style=flat)
+![Codeforces Max Rank](https://img.shields.io/codeforces/max_rank?username=ashutoshsingh6376&style=flat)
 
 ---
 
@@ -77,5 +78,4 @@
 
 - 📧 Email: ashutoshsingh6376@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
-
 > 🚀 *"Building scalable, intelligent, and impactful tech."*
