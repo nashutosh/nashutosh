@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
 [![GitHub Followers](https://img.shields.io/github/followers/nashutosh?label=Follow&style=social)](https://github.com/nashutosh)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Ashu054/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-lightgrey?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
+[![Codeforces](https://img.shields.io/badge/Codeforces-ashutoshsingh6376-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
 
@@ -21,7 +21,6 @@
 | Language | Purpose |
 |----------|---------|
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | DSA Practice |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | DSA Practice |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Data Science, ML/DL |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Full-Stack Web Development |
 
@@ -69,13 +68,14 @@
 ### 📈 LeetCode & Codeforces
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
-![Codeforces](https://img.shields.io/badge/Codeforces-ashutoshsingh6376-blue?style=flat-square&logo=codeforces)](https://codeforces.com/profile/ashutoshsingh6376)
-
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
 
 ## 📬 Let's Connect
 
-- 📧 Email: ashutoshsingh6376@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
+- 🌐 **Portfolio:** [ashutoshsingh.me](https://ashutoshsingh.me)
+- 📧 **Email:** ashutoshsingh6376@gmail.com  
+- 💼 **LinkedIn:** [Ashutosh Singh](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)  
+
 > 🚀 *"Building scalable, intelligent, and impactful tech."*
