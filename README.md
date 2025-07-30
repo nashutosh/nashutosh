@@ -54,7 +54,7 @@
 🎖️ **Vadodara Hackathon Finalist**  
 📌 **Tech Expo Presenter**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nashutosh&theme=onedark&no-bg=true&no-frame=true&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutosh-engineer&theme=onedark&no-bg=true&no-frame=true&column=4)
 
 ---
 
@@ -62,15 +62,15 @@
 
 ### 🔥 GitHub
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutosh-engineer&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-engineer&layout=compact&theme=radical)
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
 **Light Mode**  
-![Snake Light](https://raw.githubusercontent.com/nashutosh/nashutosh/main/.github-snake/github-contribution-grid-snake.svg)
+![Snake Light](https://raw.githubusercontent.com/ashutosh-engineer/ashutosh-engineer/main/.github-snake/github-contribution-grid-snake.svg)
 
 ---
 
