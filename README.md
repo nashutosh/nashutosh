@@ -62,12 +62,14 @@
 
 ### 🔥 GitHub
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashutosh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nashutosh&layout=compact&theme=radical)  
+![GitHub Contribution Graph](https://raw.githubusercontent.com/nashutosh/nashutosh/output/github-contribution-grid-snake.svg)
 
 ### 📈 LeetCode & Codeforces
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
+![LeetCode Contest Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=heatmap)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashutoshsingh6376)
 
 ---
