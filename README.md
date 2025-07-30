@@ -76,7 +76,7 @@
 
 ### 📈 LeetCode & Codeforces
 
-![LeetCode Contest Stats](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=contest)  
+ 
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Ashu054?theme=dark&font=Karma&ext=heatmap)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ashutoshsingh6376)
 
