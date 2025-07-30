@@ -72,9 +72,6 @@
 **Light Mode**  
 ![Snake Light](https://raw.githubusercontent.com/nashutosh/nashutosh/main/.github-snake/github-contribution-grid-snake.svg)
 
-**Dark Mode**  
-![Snake Dark](https://raw.githubusercontent.com/nashutosh/nashutosh/main/.github-snake/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
 ---
 
 ### 📈 LeetCode & Codeforces
