@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/104481951?v=4" alt="Ashutosh Singh" width="150" style="border-radius: 50%;">
+</p>
+
 # **Ashutosh Singh** | *Software Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-singh-7945812b2/)
