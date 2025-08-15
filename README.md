@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Ashutosh Singh" width="150" height="150" style="border-radius: 50%;">
+    <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Banner" width="100%">
 </p>
 
 # **Ashutosh Singh** | *Software Engineer*
