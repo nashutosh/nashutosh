@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/104481951?v=4" alt="Ashutosh Singh" width="150" style="border-radius: 50%;">
+  <img src="Google_AI_Studio_2025-08-15T22_05_14.944Z.png" alt="Ashutosh Singh" width="150" style="border-radius: 50%;">
 </p>
 
 # **Ashutosh Singh** | *Software Engineer*
