@@ -41,7 +41,8 @@
 ### 🧠 Machine Learning & Deep Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-[![NLP](https://img.shields.io/badge/NLP-Transformers-0052CC?style=for-the-badge)](https://huggingface.co/docs/transformers/index)
+[![NLP](https://img.shields.io/badge/NLP-Deep%20Learning-FFD700?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+
 
 
 ### 🌐 MERN Stack
