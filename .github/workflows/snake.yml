@@ -9,18 +9,19 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # ✅ IMPORTANT: Allow write permission to push to main
+      contents: write
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
+          fetch-depth: 0
 
       - name: Generate the snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ashutosh-engineer
+          # Auto-detect your username instead of hardcoding
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -28,12 +29,13 @@ jobs:
       - name: Move to target folder
         run: |
           mkdir -p .github-snake
-          cp dist/* .github-snake/
+          cp dist/* .github-snake/ || true
 
-      - name: Commit and push to main
+      - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add .github-snake/
-          git commit -m "🐍 update GitHub contribution snake" || echo "nothing to commit"
-          git push origin main
+          git diff --cached --quiet || git commit -m "🐍 update GitHub contribution snake"
+          # Push to the current branch even if its name changes
+          git push origin HEAD:${GITHUB_REF_NAME}
